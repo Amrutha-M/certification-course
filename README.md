@@ -33,3 +33,39 @@
           5.Link to online
   <br />
   </html>
+  
+  <html>
+  <h2>
+    Certification Day 3:
+    </h2>
+    <hr/>
+  <br/>
+          1.Image tag
+  <br />
+          2.Alt Attributes
+  <br />
+          3.Clickable images
+  <br />
+          4.Unordered lists
+  <br />
+          5.Orderd lists
+  <br />
+  </html>
+
+<html>
+  <h2>
+    Certification Day 4:
+    </h2>
+    <hr/>
+  <br/>
+          1.Table tag - 1
+  <br />
+          2.Table tag - 2
+  <br />
+          3.Introduction to forms
+  <br />
+          4.Introduction to input elements
+  <br />
+          5.More on input elements
+  <br />
+  </html>
