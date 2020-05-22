@@ -69,3 +69,22 @@
           5.More on input elements
   <br />
   </html>
+  
+  <html>
+  <h2>
+  certification Day 5:
+    </h2>
+  <hr/>
+  <br>
+         1.Label tag
+  <br />
+         2.Form tag
+  <br />
+         3.Method attribute
+  <br />
+         4.HTML 5 attributes
+  <br />
+         5.HTML 5 input elements
+  <br />
+ </html>
+
