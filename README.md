@@ -88,3 +88,21 @@
   <br />
  </html>
 
+<html>
+  <h2>
+  certification Day 6:
+    </h2>
+  <hr/>
+  <br>
+         1.Text area
+  <br />
+         2.Drop down and value attribute
+  <br />
+         3.Radio button and check box
+  <br />
+         4.Button types
+  <br />
+         5.Div tag
+  <br />
+ </html>
+
