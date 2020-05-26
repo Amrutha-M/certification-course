@@ -105,4 +105,22 @@
          5.Div tag
   <br />
  </html>
+ 
+ <html>
+  <h2>
+  certification Day 7:
+    </h2>
+  <hr/>
+  <br>
+         1.Span tag
+  <br />
+         2.Block level elements
+  <br />
+         3.Inline elements
+  <br />
+         4.Inline vs Block
+  <br />
+         5.ID
+  <br />
+ </html>
 
