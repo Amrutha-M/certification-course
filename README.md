@@ -142,3 +142,65 @@
   <br />
         
  </html>
+ 
+ <h2>certification Day 11:</h2>
+  <hr/>
+  <br>
+         Front end assignment - 2
+  <br />
+        
+ </html>
+ 
+ 
+ <h2>certification Day 12:</h2>
+  <hr/>
+  <br>
+         Step into Robotic Automation Process
+  <br />
+        
+ </html>
+ 
+ <h2>certification Day 13:</h2>
+  <hr/>
+  <br>
+         Front end assignment - 2(continued.....)
+  <br />
+        
+ </html>
+ 
+ 
+ <html>
+  <h2>
+  certification Day 14:
+    </h2>
+  <hr/>
+  <br>
+         1.Introduction to CSS
+  <br />
+         2.Inline Styling
+  <br />
+         3.Internal Styling
+  <br />
+         4.Internal styling with class
+  <br />
+         5.External styling
+  <br />
+ </html>
+ 
+ <html>
+  <h2>
+  certification Day 15:
+    </h2>
+  <hr/>
+  <br>
+         1.Type, ID and Class Selector
+  <br />
+         2.Attribute Selector
+  <br />
+         3.Attribute + Value Selector
+  <br />
+         4.Pseudo class selector
+  <br />
+         5.Hover Pseudo Class Selector
+  <br />
+ </html>
