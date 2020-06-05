@@ -204,3 +204,43 @@
          5.Hover Pseudo Class Selector
   <br />
  </html>
+ 
+ <html>
+  <h2>
+  certification Day 16:
+    </h2>
+  <hr/>
+  <br>
+         1.Link, Active and Visited
+  <br />
+        2.Preference Order
+  <br />
+         3.Structural Pseudo Classes
+  <br />
+        4.Structural Pseudo Classes 2.
+  <br />
+         5.nth of type selector
+  <br />
+ </html>
+
+
+<html>
+  <h2>
+  certification Day 17:
+    </h2>
+  <hr/>
+  <br>
+         1.Ascendant Descendant Combinator
+  <br />
+         2.Parent child combinator
+  <br />
+         3.No space combinator
+  <br />
+         4.Default browser style
+  <br />
+        5.Inheritance in CSS
+  <br />
+ </html>
+
+
+
