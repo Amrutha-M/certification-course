@@ -241,6 +241,24 @@
         5.Inheritance in CSS
   <br />
  </html>
+ 
+ <html>
+  <h2>
+  certification Day 18:
+    </h2>
+  <hr/>
+  <br>
+         1.CSS Non inherited properties
+  <br />
+         2.Cascade with embeded styling
+  <br />
+         3.Cascade with external style sheet
+  <br />
+         4.Cascade with inline styling
+  <br />
+        5.Specificity - Type VS Class selector
+  <br />
+ </html>
 
 
 
